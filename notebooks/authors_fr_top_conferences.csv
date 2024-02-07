@@ -18,10 +18,10 @@ Xavier Tannier,35,Alliance Sorbonne Université,0.0,3.0,0.0,0.0,2.0,1.0,0.0,3.0,
 Benoit Favre,32,Site Aix-Marseille-Provence-Méditerranée,0.0,6.0,0.0,0.0,2.0,0.0,0.0,6.0,1.0,8.0,0.0,1.0,0.0,0.0,8.0,0,FR
 Thierry Hamon,32,Université Sorbonne Paris Nord,0.0,1.0,0.0,0.0,0.0,0.0,0.0,11.0,0.0,1.0,0.0,0.0,0.0,2.0,17.0,0,FR
 Benjamin Lecouteux,31,Université Grenoble Alpes,0.0,2.0,0.0,0.0,1.0,0.0,0.0,8.0,0.0,6.0,0.0,0.0,0.0,0.0,14.0,0,FR
-Thomas Lavergne,31,Hôpital Européen,0.0,1.0,0.0,0.0,2.0,0.0,0.0,13.0,1.0,6.0,0.0,0.0,0.0,0.0,8.0,https://orcid.org/0000-0002-0029-0015,FR
+Thomas Lavergne,31,Université Paris Cité,0.0,1.0,0.0,0.0,2.0,0.0,0.0,13.0,1.0,6.0,0.0,0.0,0.0,0.0,8.0,https://orcid.org/0000-0002-0029-0015,FR
 Nasredine Semmar,30,Université Paris-Saclay,0.0,5.0,0.0,0.0,1.0,2.0,0.0,7.0,2.0,4.0,0.0,0.0,0.0,2.0,7.0,https://orcid.org/0000-0002-3296-1557,FR
 Philippe Muller,30,ComUE Lyon Saint-Étienne,0.0,2.0,0.0,0.0,4.0,0.0,1.0,3.0,4.0,6.0,0.0,3.0,0.0,0.0,7.0,0,FR
-Vincent Claveau,30,Direction Générale de l'Armement,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,3.0,6.0,0.0,0.0,0.0,1.0,15.0,0,FR
+Vincent Claveau,30,Université de Rennes,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,3.0,6.0,0.0,0.0,0.0,1.0,15.0,0,FR
 Agata Savary,28,Université de Tours,0.0,1.0,0.0,0.0,0.0,0.0,0.0,7.0,9.0,7.0,0.0,0.0,0.0,0.0,4.0,0,FR
 Amir Hazem,28,Nantes Université,0.0,1.0,0.0,0.0,0.0,3.0,0.0,3.0,4.0,10.0,0.0,0.0,0.0,3.0,4.0,0,FR
 Khalid Choukri,28,Evaluations and Language resources Distribution Agency,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0,0.0,0.0,0.0,0.0,0.0,0,FR
@@ -38,30 +38,30 @@ Benjamin Marie,24,Communication Molecules and Adapation of Micro-organisms,0.0,7
 Maks Ovsjanikov,24,Institut polytechnique de Paris,2.0,0.0,13.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,https://orcid.org/0000-0002-5867-4046,FR
 Isabelle Tellier,24,Université Sorbonne Nouvelle - Paris 3,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,6.0,0.0,0.0,0.0,1.0,14.0,0,FR
 Martine Adda-Decker,24,Université Sorbonne Nouvelle - Paris 3,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,11.0,https://orcid.org/0000-0003-2154-7438,FR
-Sylvain Kahane,24,Modèles Dynamiques Corpus,0.0,3.0,0.0,0.0,0.0,0.0,0.0,17.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0,FR
+Sylvain Kahane,24,Université Paris Nanterre,0.0,3.0,0.0,0.0,0.0,0.0,0.0,17.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0,FR
 Anne-Laure Ligozat,24,École nationale supérieure d'informatique pour l'industrie et l'entreprise,0.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,1.0,7.0,0.0,1.0,0.0,0.0,11.0,0,FR
 Panayotis Mertikopoulos,24,Université Grenoble Alpes,17.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,https://orcid.org/0000-0003-2026-9616,FR
 Nicholas Asher,23,Université de Toulouse,0.0,2.0,0.0,0.0,3.0,2.0,0.0,6.0,2.0,3.0,0.0,1.0,0.0,0.0,4.0,https://orcid.org/0000-0002-7689-8246,FR
-Nicolas Usunier,22,Lamsade,11.0,0.0,0.0,1.0,2.0,0.0,4.0,0.0,0.0,0.0,1.0,0.0,3.0,0.0,0.0,https://orcid.org/0000-0002-9324-1457,FR
+Nicolas Usunier,22,Alliance Sorbonne Université,11.0,0.0,0.0,1.0,2.0,0.0,4.0,0.0,0.0,0.0,1.0,0.0,3.0,0.0,0.0,https://orcid.org/0000-0002-9324-1457,FR
 Philippe Blache,22,Institute of Cancer Research of Montpellier,0.0,1.0,0.0,0.0,2.0,0.0,0.0,6.0,1.0,6.0,0.0,1.0,0.0,0.0,5.0,https://orcid.org/0000-0002-5216-9591,FR
 Frederic Bechet,22,Site Aix-Marseille-Provence-Méditerranée,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,8.0,0.0,2.0,0.0,0.0,7.0,0,FR
 Farah Benamara,22,Université de Toulouse,0.0,3.0,0.0,0.0,2.0,0.0,0.0,3.0,1.0,8.0,0.0,2.0,0.0,0.0,3.0,https://orcid.org/0000-0002-0685-1864,FR
 Jean-Yves Antoine,22,Université de Tours,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,5.0,5.0,0.0,0.0,0.0,0.0,8.0,0,FR
 Elena Cabrio,22,Université Côte d'Azur,0.0,2.0,0.0,0.0,1.0,0.0,0.0,4.0,3.0,4.0,0.0,1.0,0.0,6.0,1.0,https://orcid.org/0000-0001-9374-7872,FR
-Florian Bernard,21,Centre Hospitalier Universitaire d'Angers,1.0,0.0,16.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,https://orcid.org/0000-0003-2691-3871,FR
+Florian Bernard,21,Convention de coordination en Nouvelle-Aquitaine,1.0,0.0,16.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,https://orcid.org/0000-0003-2691-3871,FR
 Josep Crego,21,Systran (France),0.0,2.0,0.0,0.0,6.0,1.0,0.0,7.0,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0,FR
 Olivier Galibert,21,Université Bourgogne - Franche-Comté,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.0,3.0,9.0,0.0,0.0,0.0,0.0,5.0,0,FR
 Nabil Hathout,21,Université de Toulouse,0.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,8.0,0.0,0.0,0.0,0.0,6.0,https://orcid.org/0000-0003-4492-171X,FR
-Hervé Jégou,20,Inria Rennes - Bretagne Atlantique Research Centre,4.0,0.0,3.0,0.0,1.0,0.0,5.0,0.0,0.0,0.0,5.0,0.0,2.0,0.0,0.0,0,FR
+Hervé Jégou,20,Université de Rennes,4.0,0.0,3.0,0.0,1.0,0.0,5.0,0.0,0.0,0.0,5.0,0.0,2.0,0.0,0.0,0,FR
 Patrick Gallinari,20,Alliance Sorbonne Université,4.0,2.0,0.0,0.0,4.0,1.0,7.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0,FR
 Joseph Le Roux,20,Institut de la Main,0.0,5.0,0.0,0.0,4.0,0.0,0.0,4.0,2.0,0.0,0.0,2.0,0.0,0.0,3.0,0,FR
 Ludovic Tanguy,20,Université de Toulouse,0.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,1.0,5.0,0.0,1.0,0.0,0.0,9.0,0,FR
 Delphine Charlet,20,Orange (France),0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0,0.0,1.0,0.0,0.0,13.0,0,FR
 Dominique Fohr,20,Strasbourg/Lorraine et associés,0.0,3.0,0.0,0.0,1.0,0.0,0.0,2.0,2.0,7.0,0.0,0.0,0.0,0.0,5.0,0,FR
 Damien Lolive,20,Université de Rennes,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,6.0,0.0,0.0,0.0,0.0,11.0,0,FR
-Alexandre Gramfort,19,Inria Saclay - Île-de-France Research Centre,13.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,https://orcid.org/0000-0001-9791-4404,FR
+Alexandre Gramfort,19,Institut polytechnique de Paris,13.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,https://orcid.org/0000-0001-9791-4404,FR
 Gabriel Synnaeve,19,Université Grenoble Alpes,7.0,0.0,0.0,1.0,0.0,0.0,6.0,0.0,1.0,0.0,2.0,0.0,2.0,0.0,0.0,0,FR
-Nicolas Thome,19,Centre d'Etudes et De Recherche en Informatique et Communications,7.0,0.0,7.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,https://orcid.org/0000-0003-4871-3045,FR
+Nicolas Thome,19,Conservatoire national des arts et métiers,7.0,0.0,7.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,https://orcid.org/0000-0003-4871-3045,FR
 Matthieu Labeau,19,Institut polytechnique de Paris,0.0,2.0,0.0,0.0,5.0,1.0,1.0,3.0,2.0,2.0,0.0,0.0,0.0,0.0,3.0,0,FR
 Kim Gerdes,19,Université Paris-Saclay,0.0,1.0,0.0,0.0,0.0,0.0,0.0,14.0,0.0,3.0,0.0,0.0,0.0,0.0,1.0,0,FR
 Francis R. Bach,19,Université Paris sciences et lettres,19.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://orcid.org/0000-0001-8644-1058,FR
@@ -75,7 +75,7 @@ Caroline Brun,18,Théorie et Histoire des Arts et des Littératures de la Modern
 Anne Vilnat,18,Institut polytechnique de Paris,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,7.0,0.0,1.0,0.0,0.0,6.0,0,FR
 Brigitte Grau,18,Université Paris-Saclay,0.0,0.0,0.0,0.0,1.0,2.0,0.0,3.0,0.0,4.0,0.0,1.0,0.0,0.0,7.0,0,FR
 Nathalie Camelin,18,COMUE Angers-Le Mans,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,10.0,0.0,0.0,0.0,0.0,7.0,0,FR
-Delphine Bernhard,18,"Centre de Linguistique Inter-langues, de Lexicologie, de Linguistique Anglaise et de Corpus-Atelier de Recherche sur la Parole",0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,5.0,0.0,1.0,0.0,0.0,10.0,0,FR
+Delphine Bernhard,18,Strasbourg/Lorraine et associés,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,5.0,0.0,1.0,0.0,0.0,10.0,0,FR
 Davide Buscaldi,17,Université Sorbonne Paris Nord,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,2.0,0.0,8.0,0.0,0.0,5.0,https://orcid.org/0000-0003-1112-3789,FR
 Thierry Charnois,17,Alliance Sorbonne Université,0.0,2.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,2.0,0.0,1.0,9.0,https://orcid.org/0000-0001-9700-5075,FR
 Maria Mitrofan,17,IQVIA (France),0.0,3.0,0.0,0.0,1.0,0.0,0.0,3.0,3.0,5.0,0.0,0.0,0.0,2.0,0.0,0,FR
@@ -102,7 +102,7 @@ Joseph Mariani,15,Université Paris-Saclay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1
 Michael Filhol,15,Université Paris-Saclay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,3.0,https://orcid.org/0000-0002-3389-0412,FR
 Solange Rossato,15,Université Grenoble Alpes,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,4.0,0.0,0.0,0.0,0.0,7.0,https://orcid.org/0000-0002-4698-774X,FR
 Delphine Battistelli,15,Université Paris Nanterre,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,4.0,0.0,0.0,0.0,1.0,6.0,0,FR
-Iris Eshkol-Taravella,15,Modèles Dynamiques Corpus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,11.0,0,FR
+Iris Eshkol-Taravella,15,Université Paris Nanterre,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,11.0,0,FR
 Chloé Clavel,14,Institut polytechnique de Paris,1.0,2.0,0.0,0.0,3.0,1.0,0.0,0.0,2.0,4.0,0.0,0.0,1.0,0.0,0.0,https://orcid.org/0000-0003-4850-3398,FR
 Michael Arbel,14,Université Grenoble Alpes,6.0,0.0,2.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,FR
 Spyros Gidaris,14,Paris-Est Sup,1.0,0.0,8.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,https://orcid.org/0000-0003-1515-3635,FR
@@ -112,28 +112,28 @@ Ariadna Quattoni,14,Xerox (France),1.0,5.0,1.0,0.0,3.0,1.0,0.0,2.0,1.0,0.0,0.0,0
 Stéphane Lathuilière,14,Institut polytechnique de Paris,1.0,0.0,5.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,https://orcid.org/0000-0001-6927-8930,FR
 Antoine Doucet,14,Convention de coordination en Nouvelle-Aquitaine,0.0,5.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,2.0,0.0,0.0,0.0,0.0,1.0,https://orcid.org/0000-0001-6160-3356,FR
 Guy Lapalme,14,Département d'Informatique,0.0,4.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0,FR
-Damien Nouvel,14,"Bases, Corpus, Langage",0.0,1.0,0.0,0.0,0.0,1.0,0.0,3.0,0.0,2.0,0.0,1.0,0.0,0.0,6.0,0,FR
+Damien Nouvel,14,Université de Tours,0.0,1.0,0.0,0.0,0.0,1.0,0.0,3.0,0.0,2.0,0.0,1.0,0.0,0.0,6.0,0,FR
 Richard Dufour,14,Site Aix-Marseille-Provence-Méditerranée,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,9.0,0,FR
 Djamé Seddah,14,Alliance Sorbonne Université,0.0,10.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0,FR
-Pierre-Yves Oudeyer,13,Inria Bordeaux - Sud-Ouest Research Centre,4.0,1.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0,FR
+Pierre-Yves Oudeyer,13,Convention de coordination en Nouvelle-Aquitaine,4.0,1.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0,FR
 Gül Varol,13,Paris-Est Sup,0.0,0.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,https://orcid.org/0000-0002-8438-6152,FR
 Lina Rojas-Barahona,13,Strasbourg/Lorraine et associés,0.0,6.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0,FR
 Gabriel Peyré,13,Université Paris sciences et lettres,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,https://orcid.org/0000-0002-4477-0387,FR
-Eric Moulines,13,Centre de Mathématiques Appliquées,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0,FR
+Eric Moulines,13,Institut polytechnique de Paris,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0,FR
 Serena Villata,13,Université Côte d'Azur,0.0,3.0,0.0,0.0,1.0,0.0,0.0,3.0,1.0,4.0,0.0,0.0,0.0,1.0,0.0,0,FR
 Guillaume Gravier,13,Université de Rennes,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,4.0,0.0,0.0,0.0,2.0,5.0,https://orcid.org/0000-0002-2266-5682,FR
 Mathieu Roche,13,Alliance Languedoc-Roussillon Universités,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,3.0,https://orcid.org/0000-0003-3272-8568,FR
-Thomas Moreau,12,Centre Hospitalier Universitaire Dijon Bourgogne,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,https://orcid.org/0009-0000-2965-0400,FR
+Thomas Moreau,12,Université Bourgogne - Franche-Comté,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,https://orcid.org/0009-0000-2965-0400,FR
 Nicolas Vayatis,12,Université Paris-Saclay,8.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,https://orcid.org/0000-0003-4308-4681,FR
 Ewa Kijak,12,Université de Rennes,0.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,2.0,3.0,0.0,0.0,0.0,0.0,3.0,https://orcid.org/0000-0003-0232-1097,FR
 Guillaume Bouchard,12,Université Paris-Saclay,2.0,0.0,0.0,0.0,4.0,1.0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0,FR
-Philippe Thomas,12,Hôpital Nord,0.0,2.0,0.0,0.0,2.0,0.0,0.0,3.0,0.0,3.0,0.0,1.0,0.0,1.0,0.0,https://orcid.org/0000-0002-3305-6989,FR
+Philippe Thomas,12,Site Aix-Marseille-Provence-Méditerranée,0.0,2.0,0.0,0.0,2.0,0.0,0.0,3.0,0.0,3.0,0.0,1.0,0.0,1.0,0.0,https://orcid.org/0000-0002-3305-6989,FR
 Stergos Afantenos,12,Université de Toulouse,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,4.0,0.0,2.0,0.0,0.0,1.0,0,FR
 Gilles Adda,12,Université Paris-Saclay,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,2.0,0,FR
 Anne-Lyse Minard,12,Université d'Orléans,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,3.0,0.0,2.0,0.0,0.0,3.0,https://orcid.org/0000-0001-6197-0463,FR
 Franck Burlot,12,Université Paris-Saclay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0,FR
 Patrick Saint-Dizier,12,Université de Toulouse,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,7.0,0.0,0.0,0.0,0.0,0.0,0,FR
-Laurent Romary,12,Direction Générale Déléguée aux Ressources,0.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0,0.0,0.0,0.0,2.0,1.0,https://orcid.org/0000-0002-0756-0508,FR
+Laurent Romary,12,Université Paris sciences et lettres,0.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0,0.0,0.0,0.0,2.0,1.0,https://orcid.org/0000-0002-0756-0508,FR
 Sahar Ghannay,12,Université Paris-Saclay,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.0,2.0,4.0,0.0,1.0,0.0,0.0,1.0,https://orcid.org/0000-0002-7531-2522,FR
 Lori Lamel,12,Université Paris-Saclay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,3.0,https://orcid.org/0000-0001-7443-9938,FR
 Corinne Fredouille,12,Site Aix-Marseille-Provence-Méditerranée,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,6.0,0,FR
@@ -147,13 +147,13 @@ Xavier Alameda-Pineda,11,Inria Grenoble - Rhône-Alpes research centre,1.0,0.0,9
 Florian Strub,11,Université de Lille,3.0,1.0,1.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,https://orcid.org/0000-0001-7271-5345,FR
 Lina M. Rojas-Barahona,11,Strasbourg/Lorraine et associés,0.0,4.0,0.0,0.0,1.0,0.0,0.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0,FR
 Nathalie Aussenac-Gilles,11,Université de Toulouse,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,1.0,0.0,2.0,0.0,0.0,4.0,https://orcid.org/0000-0003-3653-3223,FR
-Lauriane Aufrant,11,Direction Générale de l'Armement,0.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,1.0,0.0,0.0,0.0,0.0,2.0,0,FR
+Lauriane Aufrant,11,Laboratoire d'Informatique pour la Mécanique et les Sciences de l'Ingénieur,0.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,1.0,0.0,0.0,0.0,0.0,2.0,0,FR
 Magalie Ochs,11,Site Aix-Marseille-Provence-Méditerranée,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,7.0,0.0,1.0,0.0,0.0,2.0,0,FR
 Denis Jouvet,11,Strasbourg/Lorraine et associés,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,3.0,0.0,0.0,0.0,0.0,6.0,0,FR
 Gil Francopoulo,11,Université Paris-Saclay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,8.0,0.0,0.0,0.0,0.0,1.0,0,FR
 Lionel Nicolas,11,Université Paris Cité,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,8.0,0.0,0.0,0.0,2.0,0.0,https://orcid.org/0000-0001-7237-1239,FR
 Alain Ghio,11,Site Aix-Marseille-Provence-Méditerranée,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,6.0,https://orcid.org/0000-0001-7302-0799,FR
-Gael Varoquaux,11,Inria Saclay - Île-de-France Research Centre,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,FR
+Gael Varoquaux,11,Institut polytechnique de Paris,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,FR
 Sylvain Lamprier,11,Alliance Sorbonne Université,2.0,0.0,0.0,0.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0,FR
 Damien Sileo,11,Université de Lille,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.0,0.0,2.0,0.0,0.0,3.0,0,FR
 Bassam Jabaian,11,Site Aix-Marseille-Provence-Méditerranée,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0,0.0,0.0,0.0,0.0,6.0,0,FR
@@ -163,7 +163,7 @@ Benjamin Piwowarski,11,Alliance Sorbonne Université,2.0,2.0,0.0,0.0,4.0,2.0,0.0
 Jean Maillard,10,Université Paris-Saclay,0.0,6.0,0.0,0.0,1.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,FR
 Romain Couillet,10,Grenoble Images Parole Signal Automatique,3.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0,FR
 Ignacio Rocco,10,Université Paris sciences et lettres,1.0,0.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0,FR
-Bertrand Thirion,10,Inria Saclay - Île-de-France Research Centre,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,https://orcid.org/0000-0001-5018-7895,FR
+Bertrand Thirion,10,Université Paris-Saclay,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,https://orcid.org/0000-0001-5018-7895,FR
 Alain Rakotomamonjy,10,Normandie Université,8.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0,FR
 Oliver Adams,10,Atos (France),0.0,2.0,0.0,0.0,1.0,0.0,0.0,4.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,https://orcid.org/0000-0002-5145-9589,FR
 Michael Zock,10,Site Aix-Marseille-Provence-Méditerranée,0.0,2.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0,FR
@@ -173,7 +173,7 @@ Andon Tchechmedjiev,10,Institut polytechnique de Paris,0.0,0.0,0.0,0.0,1.0,0.0,0
 Jonathan Ginzburg,10,Sorbonne Paris Cité,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,https://orcid.org/0000-0001-5737-0991,FR
 Pierre Magistry,10,Site Aix-Marseille-Provence-Méditerranée,0.0,2.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,5.0,0,FR
 Annelies Braffort,10,Université Paris-Saclay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,2.0,https://orcid.org/0000-0003-4595-7714,FR
-Alain Joubert,10,Centre Hospitalier Métropole Savoie,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,3.0,4.0,0,FR
+Alain Joubert,10,Alliance Languedoc-Roussillon Universités,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,3.0,4.0,0,FR
 Abdellah Fourtassi,10,Site Aix-Marseille-Provence-Méditerranée,0.0,4.0,0.0,0.0,3.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://orcid.org/0000-0003-0279-7730,FR
 Gabriel Illouz,10,Université Paris-Saclay,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,5.0,0,FR
 Olivier Hamon,10,Université Paris Cité,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,3.0,0,FR
@@ -183,11 +183,11 @@ Gilles Puy,10,Technicolor (France),0.0,0.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0
 Maurizio Filippone,9,EURECOM,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0,FR
 Pierre Gaillard,9,Institut de Mathématiques de Bourgogne,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0,FR
 Christophe Gravier,9,ComUE Lyon Saint-Étienne,0.0,4.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,https://orcid.org/0000-0001-8586-6302,FR
-Rémi Flamary,9,Centre de Mathématiques Appliquées,6.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,FR
+Rémi Flamary,9,Institut polytechnique de Paris,6.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,FR
 Nicolas Courty,9,AUB - Alliance universitaire de Bretagne,5.0,0.0,0.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,FR
 Alexandre d'Aspremont,9,Kopoos Consulting (France),7.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,https://orcid.org/0000-0003-3851-216X,FR
 Hussam Hamdan,9,Site Aix-Marseille-Provence-Méditerranée,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,8.0,0.0,0.0,0.0,0,FR
-Alain Durmus,9,Centre de Mathématiques Appliquées,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,FR
+Alain Durmus,9,Institut polytechnique de Paris,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,FR
 Gabriel Marzinotto,9,Site Aix-Marseille-Provence-Méditerranée,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,1.0,0.0,0.0,3.0,0,FR
 Eric Gaussier,9,Université Grenoble Alpes,3.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,https://orcid.org/0000-0002-8858-3233,FR
 Pascal Amsili,9,Université Paris Nanterre,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,5.0,0,FR
@@ -239,7 +239,7 @@ Joseph Salmon,7,Alliance Languedoc-Roussillon Universités,5.0,0.0,0.0,0.0,0.0,0
 Kevin Duarte,7,Strasbourg/Lorraine et associés,2.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,https://orcid.org/0000-0002-0292-0498,FR
 Stéphane Mallat,7,Université Paris sciences et lettres,1.0,0.0,1.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://orcid.org/0000-0001-5263-8960,FR
 David Dohan,7,Délégation Paris 5,1.0,0.0,1.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0,FR
-Herve Jegou,7,Inria Rennes - Bretagne Atlantique Research Centre,0.0,0.0,5.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,FR
+Herve Jegou,7,Université de Rennes,0.0,0.0,5.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,FR
 Teddy Furon,7,Université de Rennes,1.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0,FR
 David Picard,7,Paris-Est Sup,0.0,0.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,https://orcid.org/0000-0002-6296-4222,FR
 Arthur Mensch,7,Université Paris Cité,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,https://orcid.org/0000-0003-1007-636X,FR
@@ -255,7 +255,7 @@ Samuel Humeau,7,ComUE Lyon Saint-Étienne,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,0.
 Konstantin Mishchenko,7,French Institute for Research in Computer Science and Automation,4.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,https://orcid.org/0000-0002-5241-7292,FR
 Mathieu Dehouck,7,Université de Lille,0.0,3.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0,FR
 Olga Seminck,7,Université Paris sciences et lettres,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,https://orcid.org/0000-0003-4617-5992,FR
-Caroline Pasquer,7,"Bases, Corpus, Langage",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,2.0,0,FR
+Caroline Pasquer,7,Université de Tours,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,2.0,0,FR
 Gilbert Badaro,7,EURECOM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0,FR
 Brij Mohan Lal Srivastava,7,Centrale Lille Institut,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,https://orcid.org/0000-0001-7531-7123,FR
 Josiane Mothe,7,Université de Toulouse,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,1.0,0.0,0.0,2.0,https://orcid.org/0000-0001-9273-2193,FR
@@ -278,8 +278,8 @@ Beatrice Daille,7,Nantes Université,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,0.0
 Philippe Suignard,7,Alliance Sorbonne Université,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0,FR
 Alexandre Allauzen,7,Université Paris sciences et lettres,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0,FR
 Raoul de Charette,7,Institut Systèmes Intelligents et de Robotique,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0,FR
-Nicolas Ballier,7,Centre d'Immunologie et des Maladies Infectieuses,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,2.0,https://orcid.org/0000-0002-0449-0428,FR
-Rufin VanRullen,7,Brain and Cognition Research Center,4.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://orcid.org/0000-0002-3611-7716,FR
+Nicolas Ballier,7,Institut de Médecine Tropicale du Service de Santé des Armées,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,2.0,https://orcid.org/0000-0002-0449-0428,FR
+Rufin VanRullen,7,Université de Toulouse,4.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://orcid.org/0000-0002-3611-7716,FR
 Nikos Paragios,6,Université Paris-Saclay,2.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,FR
 Stepan Tulyakov,6,Huawei Technologies (France),1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0,FR
 Emilie Kaufmann,6,Université de Lille,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,FR
@@ -289,7 +289,7 @@ Maha Elbayad,6,Université Grenoble Alpes,0.0,3.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.
 Tu Vu,6,Continental (France),0.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,https://orcid.org/0000-0001-6422-6509,FR
 Loic Landrieu,6,Institut national de l'information géographique et forestière,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0,FR
 Amos Sironi,6,"Laboratoire de Recherche sur la Croissance Cellulaire, la Réparation et la Régénération Tissulaires",1.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0,FR
-Himalaya Jain,6,Inria Rennes - Bretagne Atlantique Research Centre,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,https://orcid.org/0000-0002-8932-7661,FR
+Himalaya Jain,6,Technicolor (France),0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,https://orcid.org/0000-0002-8932-7661,FR
 Rémi Gribonval,6,ComUE Lyon Saint-Étienne,2.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0,FR
 Mickaël Chen,6,Université Paris Cité,3.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0,FR
 Amaury Habrard,6,ComUE Lyon Saint-Étienne,5.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://orcid.org/0000-0003-3038-9347,FR
@@ -311,9 +311,9 @@ Abdessalam Bouchekif,6,COMUE Angers-Le Mans,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,
 Natalia Tomashenko,6,Site Aix-Marseille-Provence-Méditerranée,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,https://orcid.org/0000-0002-7125-2382,FR
 Alexis Michaud,6,Nantes Université,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,2.0,0,FR
 Myriam Bras,6,Université de Toulouse,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,3.0,0.0,0.0,0.0,0.0,1.0,0,FR
-Virginie Woisard,6,Hôpital Larrey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,3.0,https://orcid.org/0000-0003-3895-2827,FR
-Ilaine Wang,6,Modèles Dynamiques Corpus,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,1.0,0,FR
-Florent Lafarge,6,Research Centre Inria Sophia Antipolis - Méditerranée,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,FR
+Virginie Woisard,6,University Cancer Institute Toulouse Oncopole,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,3.0,https://orcid.org/0000-0003-3895-2827,FR
+Ilaine Wang,6,Université de Tours,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,1.0,0,FR
+Florent Lafarge,6,Université Côte d'Azur,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,FR
 Mike Gartrell,6,Criteo (France),3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,FR
 Olivier Bonami,6,Université Paris Cité,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,https://orcid.org/0000-0003-0688-3855,FR
 Ludovic Jean-Louis,6,Université Paris sciences et lettres,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,2.0,0,FR
@@ -324,7 +324,7 @@ Houda Saadane,6,Université Grenoble Alpes,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0
 Laurent Prévot,6,Alliance Languedoc-Roussillon Universités,0.0,4.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,https://orcid.org/0000-0002-4627-4379,FR
 Bruno Gaume,6,Université de Toulouse,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,https://orcid.org/0000-0002-1998-7170,FR
 Romain Brixtel,6,Normandie Université,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,0,FR
-Iris Eshkol,6,Modèles Dynamiques Corpus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,4.0,0,FR
+Iris Eshkol,6,Université Paris Nanterre,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,4.0,0,FR
 Camille Fauth,6,Strasbourg/Lorraine et associés,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,4.0,0,FR
 Lionel Ramadier,6,University Hospital of Montpellier,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,4.0,0,FR
 Pierre Badin,6,Grenoble Images Parole Signal Automatique,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,https://orcid.org/0000-0001-7440-820X,FR
